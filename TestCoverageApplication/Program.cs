@@ -28,7 +28,6 @@ namespace TestCoverageApplication
                 .TrimStart();
         }
 
-
         public static string ReturnEmptyString()
         {
             return string.Empty;
