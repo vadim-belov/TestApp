@@ -13,6 +13,7 @@ namespace TestCoverageApplication
         public static string GetFirstNumbers(int count)
         {
             int currentNumber = 1;
+            //
 
             string text = string.Empty;
 
