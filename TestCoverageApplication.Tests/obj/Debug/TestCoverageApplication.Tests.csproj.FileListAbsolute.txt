@@ -1,0 +1,14 @@
+c:\Users\Belov.vn\Documents\Visual Studio 2013\Projects\TestCoverageApplication\TestCoverageApplication.Tests\bin\Debug\TestCoverageApplication.Tests.dll
+c:\Users\Belov.vn\Documents\Visual Studio 2013\Projects\TestCoverageApplication\TestCoverageApplication.Tests\bin\Debug\TestCoverageApplication.Tests.pdb
+c:\Users\Belov.vn\Documents\Visual Studio 2013\Projects\TestCoverageApplication\TestCoverageApplication.Tests\bin\Debug\TestCoverageApplication.exe
+c:\Users\Belov.vn\Documents\Visual Studio 2013\Projects\TestCoverageApplication\TestCoverageApplication.Tests\bin\Debug\TestCoverageApplication.pdb
+c:\Users\Belov.vn\Documents\Visual Studio 2013\Projects\TestCoverageApplication\TestCoverageApplication.Tests\obj\Debug\TestCoverageApplication.Tests.csprojResolveAssemblyReference.cache
+c:\Users\Belov.vn\Documents\Visual Studio 2013\Projects\TestCoverageApplication\TestCoverageApplication.Tests\obj\Debug\TestCoverageApplication.Tests.dll
+c:\Users\Belov.vn\Documents\Visual Studio 2013\Projects\TestCoverageApplication\TestCoverageApplication.Tests\obj\Debug\TestCoverageApplication.Tests.pdb
+c:\GitProjects\cdb\CodeCoverage\TestCoverageApplication\TestCoverageApplication.Tests\bin\Debug\TestCoverageApplication.Tests.dll
+c:\GitProjects\cdb\CodeCoverage\TestCoverageApplication\TestCoverageApplication.Tests\bin\Debug\TestCoverageApplication.Tests.pdb
+c:\GitProjects\cdb\CodeCoverage\TestCoverageApplication\TestCoverageApplication.Tests\bin\Debug\TestCoverageApplication.exe
+c:\GitProjects\cdb\CodeCoverage\TestCoverageApplication\TestCoverageApplication.Tests\bin\Debug\TestCoverageApplication.pdb
+c:\GitProjects\cdb\CodeCoverage\TestCoverageApplication\TestCoverageApplication.Tests\obj\Debug\TestCoverageApplication.Tests.csprojResolveAssemblyReference.cache
+c:\GitProjects\cdb\CodeCoverage\TestCoverageApplication\TestCoverageApplication.Tests\obj\Debug\TestCoverageApplication.Tests.dll
+c:\GitProjects\cdb\CodeCoverage\TestCoverageApplication\TestCoverageApplication.Tests\obj\Debug\TestCoverageApplication.Tests.pdb
