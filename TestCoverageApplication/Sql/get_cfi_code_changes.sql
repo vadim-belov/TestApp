@@ -241,7 +241,13 @@ begin
 									(from_list.oper_date is null and to_list.oper_date is not null)))
 		order by x.full_name, x.isin
 
+
+
 	drop table #cfi_table
+
+	select 
+		*
+	from sys.objects
 end
 GO
 /* Grants */
